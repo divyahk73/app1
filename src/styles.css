@@ -1,0 +1,28 @@
+.column {
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-color: #050969;
+}
+h2 {
+  color: #050969;
+  padding: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: #ffc009;
+  margin-left: 2px;
+  padding-bottom: 4px;
+}
+.label {
+  padding: 2px 5px;
+}
+input {
+  border-radius: 5px;
+  border: 1px solid #a7a8ca;
+  width: 20rem;
+}
+.input {
+  margin-top: 50px;
+}
+.btn-color {
+  color: #050969;
+  border-color: #050969;
+}
